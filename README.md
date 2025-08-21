@@ -1,4 +1,4 @@
-# Store Rating Full-Stack Application
+# Store-Rating-App-Roxiler (Full-Stack Application)
 
 A complete web application built from scratch that allows users to submit and view ratings for stores. The platform features a robust role-based access control system, providing tailored experiences for Normal Users, Store Owners, and System Administrators.
 
